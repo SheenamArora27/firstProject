@@ -14,6 +14,7 @@ public class Array {
 
 
         System.out.println("new feature nov6");
+        System.out.println("2nd new feature");
     }
 
 }
