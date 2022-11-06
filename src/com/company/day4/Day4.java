@@ -18,6 +18,10 @@ public class Day4 {
         //age = 10;
 
         System.out.println(age+5);  //it will do calculation automatically and prints it
+
+        System.out.println("new feature changes on main branch");
+
+
     }
 
     public static void method2(String[] args)  {
