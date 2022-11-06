@@ -1,6 +1,6 @@
 package com.company.day5;
 
-public class day5 {
+public class Day5 {
     public static void main(String[] args) {
 
         int x = 99;

@@ -1,6 +1,6 @@
 package com.company.day7;
 
-public class enhanceForLoop {
+public class EnhanceFor {
     public static void main(String[] args) {
         for (int i = 1; i <=5; i++) {
 
@@ -12,7 +12,7 @@ public class enhanceForLoop {
     }
 
 }
-/*  output
+/*  print
 1 1 1 1
 2 2 2 2
 3 3 3 3

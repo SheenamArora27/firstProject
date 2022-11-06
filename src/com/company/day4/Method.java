@@ -1,6 +1,6 @@
 package com.company.day4;
 
-public class method {
+public class Method {
 
     public static void main(String[] args) {
        /* System.out.println("hi");

@@ -1,6 +1,6 @@
 package com.company.day6;
 
-public class day6 {
+public class Day6 {
 
     static int x= 4;
 

@@ -1,6 +1,6 @@
 package com.company.day6;
 
-public class loop {
+public class Loop {
     public static void main(String[] args) {
         int sum = 1;
 

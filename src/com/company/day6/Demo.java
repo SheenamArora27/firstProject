@@ -2,7 +2,7 @@ package com.company.day6;
 
 import java.util.Scanner;
 
-public class demo {
+public class Demo {
 
     public static void main(String[] args) {
         // testMonthDay(1);
